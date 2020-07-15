@@ -1,0 +1,2 @@
+# Udacity-Business-Analytics-Nanodegree-Program
+In this program I learned how to master data fundamentals that are applicable to any industry and learn to make data-driven decisions. Including learning major skills to tackle a range of business problems using data, from statistics and spreadsheets, SQL and Tableau. A wide range of business metrics and how to build financial forecast to determine the growth and health of company metrics.
